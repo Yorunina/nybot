@@ -1,4 +1,3 @@
-# Xq\_Bot搭建指南
+#XQ Bot搭建指南
 
-## 如何在本地搭建一个基于XQ框架的Bot
-
+#用于链接gitbook

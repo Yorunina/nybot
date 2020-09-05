@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Xq\_Bot搭建指南](README.md)
-* [epk使用指南](epk-shi-yong-zhi-nan.md)
+* [Xq\_Bot搭建指南](Page-1.md)
+* [epk使用指南](Page-2.md)
 
