@@ -1,2 +1,3 @@
-# nybot
-A gitbook  tutorial
+# Xq_Bot搭建指南 & 使用现有的epk模块 #
+
+##如何在本地搭建一个基于XQ框架的Bot
