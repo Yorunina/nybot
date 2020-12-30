@@ -3,8 +3,10 @@
 ##使用XQ整合包搭建Bot
 >XQ是目前阶段我个人认为前景最好，当前功能最强大的一款QQ机器人框架——因此该整合选用的即是XQ框架
 
+>本文中提到的整合包为下文链接中的General分支整合包！旧版整合包可能会出现各种各样奇怪的问题！请一定要注意这点！
+
 >XQ主页：https://www.xianqubot.com/  
-XQ论坛：https://discuss.xianqubot.com/  
+XQ社区：https://discourse.xianqubot.com/
 文中整合包地址：https://pan.baidu.com/s/16fFXhwm66PGJ7m81h4CpiA  
 提取码：n00c
 
@@ -12,7 +14,7 @@ XQ论坛：https://discuss.xianqubot.com/
 ###下载先驱后
 
 
-首先**下载整合包**，然后**解压**，整合包内应至少包括如下文件（如果此步出现报毒，是因为易语言被误杀，请将文件加入白名单）
+首先**下载整合包(Gnereal分支整合包)**，然后**解压**，整合包内应至少包括如下文件（如果此步出现报毒，是因为易语言被误杀，请将文件加入白名单）
 
 ![Picture](/pic/1.png "实际上会比这多一些")
 
