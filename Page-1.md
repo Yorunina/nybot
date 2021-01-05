@@ -6,7 +6,7 @@
 >本文中提到的整合包为下文链接中的General分支整合包！旧版整合包可能会出现各种各样奇怪的问题！请一定要注意这点！
 
 >XQ主页：https://www.xianqubot.com/  
-XQ社区：https://discourse.xianqubot.com/
+XQ社区：https://discourse.xianqubot.com/  
 文中整合包地址：https://pan.baidu.com/s/16fFXhwm66PGJ7m81h4CpiA  
 提取码：n00c
 
